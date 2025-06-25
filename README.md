@@ -164,4 +164,4 @@ MIT License — use freely, credit appreciated.
 
 ## 🙋‍♂️ Author
 
-Built with ❤️ by **Damodar** — AI Architect & .NET Fullstack Dev
+Built with ❤️ by **Thirunagari PrasannaKumar** — AI Architect & .NET Fullstack Dev
