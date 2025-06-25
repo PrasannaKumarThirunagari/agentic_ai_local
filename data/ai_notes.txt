@@ -1,0 +1,1 @@
+Agentic AI refers to AI systems that can autonomously use tools, reason about tasks, and interact with multiple components like memory, vector stores, or APIs. These systems often use multi-agent frameworks and orchestrators like LangChain.

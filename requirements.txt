@@ -1,0 +1,10 @@
+langchain>=0.1.14
+chromadb>=0.4.24
+sentence-transformers>=2.2.2
+streamlit>=1.35.0
+tqdm
+python-dotenv
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-huggingface
